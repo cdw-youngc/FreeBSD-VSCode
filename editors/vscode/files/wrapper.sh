@@ -1,2 +1,2 @@
 #!/bin/sh
-exec code-oss "$@"
+exec code-oss "$warrenclaycan"
